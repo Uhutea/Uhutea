@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Uhutea
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Analytical Projects
+- 📫 How to reach me utyjohn@gmail.com
